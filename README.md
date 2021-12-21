@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **UI/UX Design, HTML, CSS, JS**
 
-- 📫 How to reach me **amajaying@gmail.com**
+- 📫 How to reach me? **amajaying@gmail.com**
+
+- 👀 I am looking to contribute in **Open Source Projects.**
 
 - ⚡ Fun fact **I am amajaying! ;)**
 <br>
