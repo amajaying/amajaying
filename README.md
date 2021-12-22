@@ -1,7 +1,8 @@
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
 <h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm amajaying!</h2>
 <i>A designer trying to design his way into programming!</i>
-
+<br>
+<p align="center"><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
