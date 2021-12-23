@@ -4,9 +4,9 @@
 <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
 
-- 🌱 I’m currently learning **Android Development with Kotlin**
+- 🌱 I’m currently learning **Android Development with Kotlin.**
 
-- 💬 Ask me about **UI/UX Design, HTML, CSS, JS**
+- 💬 Ask me about **UI/UX Design, HTML, CSS, JS.**
 
 - 📫 How to reach me? **amajaying@gmail.com**
 
