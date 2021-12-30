@@ -16,12 +16,13 @@
 <br>
 <b>Connect with me:</b>
 <p align="left">
- 
-<a href="https://twitter.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
-<a href="https://linkedin.com/in/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
-<a href="https://fb.com/aww.ajuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aww.ajuu" height="30" width="40" /></a>&emsp;
-<a href="https://instagram.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
+
+
+ <a href="https://instagram.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://www.youtube.com/c/ajaykhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajaykhatri" height="30" width="40" /></a>&emsp;
+ <a href="https://fb.com/aww.ajuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aww.ajuu" height="30" width="40" /></a>&emsp;
+<a href="https://linkedin.com/in/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
+<a href="https://twitter.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 </p>
 <br>
 <details>
@@ -39,12 +40,15 @@
  
  <summary><b>Other Info:</b></summary>
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amajaying&show_icons=true&locale=en&layout=compact" alt="amajaying" /></p><br>
-<p><img align="center" src="https://wakatime.com/share/@b57f1ed0-1822-486c-9521-3335d1880561/2f0108e2-e1f6-4cc3-817c-df33c59f7389.svg" height= "400px" ></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en" alt="amajaying" /></p>
+<p><img height="180px" width="480px" alt="Commit Stats" src="https://github-readme-stats.vercel.app/api?username=amajaying&count_private=true&include_all_commits=true&theme=shades-of-purple&hide_border=false"/></p><br>
+ 
+<p><img align="center" src="https://wakatime.com/share/@b57f1ed0-1822-486c-9521-3335d1880561/4a327ede-82cb-425a-b805-25682906e99a.svg" height= "400px" ></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&theme=shades-of-purple&hide_border=false" alt="amajaying" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&" alt="amajaying" /></p>
-
-<img src="https://komarev.com/ghpvc/?username=amajaying&label=Profile%20views&color=0e75b6&style=flat" alt="amajaying"/>
+<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=shades-of-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&dates=BB00FCB9&border=2F03FF&amp;" alt="Itish" style="max-width: 100%;"/>
+</p>
+ 
+ 
+ <img alt="Trophy" align="center" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=amajaying&show_icons=true&theme=dracula"/>
 </details>
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
