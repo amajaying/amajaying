@@ -14,6 +14,13 @@
 
 - ⚡ Fun fact **I am amajaying! ;)**
 <br>
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+<br>
 <b>Connect with me:</b>
 <p align="left">
 
