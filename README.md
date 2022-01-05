@@ -49,7 +49,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=false" alt="amajaying" /></p>
 <br>
-<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&count_private=true&theme=shades-of-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&dates=BB00FCB9&border=2F03FF&amp;" alt="amajaying" style="max-width: 100%;"/>
+<p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=shades-of-purple" alt="amajaying" style="max-width: 100%;"/>
 </p>
  
  
