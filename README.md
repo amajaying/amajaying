@@ -47,12 +47,12 @@
 
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=false" alt="amajaying" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en" alt="amajaying" /></p>
 <br>
 <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&" alt="amajaying" style="max-width: 100%;"/>
 </p>
  
  
- <img alt="Trophy" align="center" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=amajaying&show_icons=true&theme=dracula"/>
+ <img alt="Trophy" align="center" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
 </details>
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
