@@ -1,7 +1,7 @@
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
 <h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ajay!</h2>
 <br>
-<p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
+<p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-blue" /></p>
 
 
 - 🌱 I’m currently working on **my Portfolio Website.**
@@ -53,6 +53,6 @@
 </p>
  
  
- <img alt="Trophy" align="center" height="130px" width="800px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
+ <img alt="Trophy" align="center" height="130px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
 </details>
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
