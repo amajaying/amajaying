@@ -3,7 +3,6 @@
 <br>
 <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-blue" /></p>
 
-
 - 🌱 I’m currently working on **my Portfolio Website.**
 
 - 💬 Ask me about **UI/UX Design, HTML, CSS, JS, Kotlin**
@@ -13,20 +12,23 @@
 - 👀 I am looking to contribute in **Open Source Projects.**
 
 - ⚡ Fun fact **I am amajaying! ;)**
-<br>
-<b>Connect with me:</b>
-<p align="left">
+  <br>
+  <!-- Social Handles -->
+  <b>Connect with me:</b>
+  <p align="left">
 
-
- <a href="https://instagram.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
+<a href="https://instagram.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://www.youtube.com/c/ajaykhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajaykhatri" height="30" width="40" /></a>&emsp;
- <a href="https://fb.com/aww.ajuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aww.ajuu" height="30" width="40" /></a>&emsp;
+<a href="https://fb.com/aww.ajuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aww.ajuu" height="30" width="40" /></a>&emsp;
 <a href="https://linkedin.com/in/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://twitter.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
+
 </p>
 <br>
 <details>
  
+ <!-- Languags and tools  -->
+
  <summary><b>Languages and Tools:</b></summary>
 <br>
 <br>
@@ -42,8 +44,6 @@
  
  <summary><b>Other Info:</b></summary>
  <br>
-
-
 
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=amajaying&theme=react-dark&bg_color=20232a&hide_border=true" alt="amajaying" /></p>
 <br>
