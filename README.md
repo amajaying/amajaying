@@ -2,7 +2,7 @@
 <h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ajay Khatri!</h2>
 <br>
 <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-blue" /></p>
-
+<p>
 - 🌱 I’m currently working on **my Portfolio Website.**
 
 - 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
@@ -12,10 +12,10 @@
 - 👀 I am looking to contribute in **Open Source Projects.**
 
 - ⚡ Fun fact **I am amajaying! ;)**
-  <br>
+  </p><br>
   <!-- Social Handles -->
-  <b>Connect with me:</b>
-  <p align="left">
+<b>Connect with me:</b>
+<p align="left">
 
 <a href="https://instagram.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://www.youtube.com/c/ajaykhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajaykhatri" height="30" width="40" /></a>&emsp;
@@ -38,13 +38,9 @@
  <p><img align="center" src="https://wakatime.com/share/@b57f1ed0-1822-486c-9521-3335d1880561/4a327ede-82cb-425a-b805-25682906e99a.svg" height= "400px" ></p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajaying&layout=compact&count_private=true&theme=dark">
 </details>
-
-<br>
 <!-- My Stats -->
 <details>
 <summary><b>My Stats:</b></summary>
-<br>
-
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=amajaying&theme=react-dark&bg_color=20232a&hide_border=true" alt="amajaying" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p>
