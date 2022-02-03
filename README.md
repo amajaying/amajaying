@@ -1,7 +1,8 @@
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
 <h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ajay Khatri!</h2>
 <br>
-<p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-blue" /></p>
+<p><img src="https://img.shields.io/badge/Under%20Grad-KIIT-blue"/>
+</p>
 <p>
 - 🌱 I’m currently working on **my Portfolio Website.**
 
@@ -13,6 +14,7 @@
 
 - ⚡ Fun fact **I am amajaying! ;)**
   </p><br>
+<p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
   <!-- Social Handles -->
 <b>Connect with me:</b>
 <p align="left">
