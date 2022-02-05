@@ -1,3 +1,4 @@
+<!-- banner -->
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
 <h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ajay Khatri!</h2>
 <br>
