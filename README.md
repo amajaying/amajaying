@@ -4,6 +4,7 @@
 <br>
 <p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
 </p>
+<!-- Details -->
 <p>
 - 🌱 I’m currently working on **my Portfolio Website.**
 
