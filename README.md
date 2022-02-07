@@ -1,11 +1,13 @@
 <!-- banner -->
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
-<h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ajay Khatri!</h2>
+<h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name’s Ajay but I’m better known as amajaying.</h3>
+<hr>
 <br>
 <p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
 </p>
 <!-- Details -->
 <p>
+  
 - 🌱 I’m currently working on **my Portfolio Website.**
 
 - 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
