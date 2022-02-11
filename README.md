@@ -1,6 +1,6 @@
 <!-- banner -->
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
-<h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name’s Ajay but I’m better known as amajaying.</h3>
+<h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name’s Ajay [better known as amajaying].</h3>
 <hr>
 <br>
 <p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
