@@ -21,7 +21,7 @@
   </p><br>
 <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
-[![Linkedin: Ajay](https://img.shields.io/badge/-Ajay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/)
+[![Linkedin: Ajay](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/)
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
