@@ -30,11 +30,10 @@
 <b>Connect with me:</b>
 
 <p align="left">
-
+<a href="https://linkedin.com/in/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://instagram.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://www.youtube.com/c/ajaykhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajaykhatri" height="30" width="40" /></a>&emsp;
 <a href="https://fb.com/aww.ajuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aww.ajuu" height="30" width="40" /></a>&emsp;
-<a href="https://linkedin.com/in/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 <a href="https://twitter.com/amajaying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amajaying" height="30" width="40" /></a>&emsp;
 
 </p>
