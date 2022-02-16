@@ -60,9 +60,7 @@
 <br>
 <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark" alt="amajaying" style="max-width: 100%;"/>
 </p>
- 
- 
- <img alt="Trophy" align="center" height="130px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
+<img alt="Trophy" align="center" height="130px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
 </details>
 
 <!-- Footer -->
