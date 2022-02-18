@@ -67,7 +67,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
