@@ -1,5 +1,11 @@
 <!-- banner -->
 <img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
+
+[![Linkedin: Ajay](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/) &nbsp;
+![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
+
+
 <h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name’s Ajay [better known as amajaying].</h3>
 <hr>
 <br>
@@ -20,10 +26,6 @@
 - ⚡ Fun fact **I am amajaying! :P**
   </p><br>
 <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
-
-[![Linkedin: Ajay](https://img.shields.io/badge/-Ajay-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amajaying/)](https://www.linkedin.com/in/amajaying/)
-![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
   <!-- Social Handles -->
 
@@ -66,8 +68,9 @@
 </details>
 
 ## Watch my contributions get eaten by a snake 🐍
+<!-- Snake -->
 
-![snake gif](https://github.com/amajaying/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
 
