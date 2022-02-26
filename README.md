@@ -55,7 +55,7 @@
 
 <!-- My Stats -->
 <details>
-<summary><b>My Stats:</b></summary>
+<summary><b>My Statistics:</b></summary>
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=amajaying&theme=react-dark&bg_color=20232a&hide_border=true" alt="amajaying" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p>
@@ -70,4 +70,5 @@
 ![snake gif](https://github.com/amajaying/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer -->
+
 <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
