@@ -12,7 +12,7 @@
 <p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
 </p>
 
-<!-- Details -->
+<!-- My Details -->
 <p>
   
 - 🌱 I’m currently working on **my Portfolio Website.**
@@ -27,7 +27,7 @@
   </p><br>
 <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
-  <!-- Social Handles -->
+  <!-- My Social Handles -->
 
 <b>Connect with me:</b>
 
