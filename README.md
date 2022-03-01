@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
-
 <h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name’s Ajay [better known as amajaying].</h3>
 <hr>
 <br>
@@ -24,10 +23,10 @@
 - 👀 I am looking to contribute in **Open Source Projects.**
 
 - ⚡ Fun fact **I am amajaying! :P**
-  </p><br>
-<p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
+    </p><br>
+  <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
-  <!-- My Social Handles -->
+    <!-- My Social Handles -->
 
 <b>Connect with me:</b>
 
@@ -40,7 +39,7 @@
 
 </p>
 <details>
-<!-- Languags and tools  -->
+<!-- Languages and Tools I use  -->
 <summary><b>Languages and Tools:</b></summary>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&emsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -68,6 +67,7 @@
 </details>
 
 ## Watch my contributions get eaten by a snake 🐍
+
 <!-- Snake -->
 
 ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
