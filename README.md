@@ -66,7 +66,7 @@
 <img alt="Trophy" align="center" height="130px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
 </details>
 
-## Watch my contributions get eaten by a snake 🐍
+## Watch my contributions get eaten by snake 🐍
 
 <!-- Snake -->
 
