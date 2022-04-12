@@ -14,7 +14,7 @@
 <!-- My Details -->
 <p>
   
-- 🌱 I’m currently working on **my Portfolio Website.**
+- 🌱 I’m currently working on **My Portfolio Website.**
 
 - 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
 
