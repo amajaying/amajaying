@@ -22,7 +22,7 @@
 
 - 👀 I am looking to contribute in **Open Source Projects.**
 
-- ⚡ Fun fact **I am amajaying! :P**
+- ⚡ Fun fact **I am amajaying! ;)**
     </p><br>
   <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
 
