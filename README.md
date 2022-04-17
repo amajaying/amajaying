@@ -56,7 +56,7 @@
 
 <!-- My Stats -->
 <details>
-<summary><b>My Statistics:</b></summary>
+<summary><b>>> My Statistics <<</b></summary>
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=amajaying&theme=react-dark&bg_color=20232a&hide_border=true" alt="amajaying" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p>
