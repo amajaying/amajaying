@@ -16,7 +16,7 @@
   
 - 🌱 I’m currently working on **My Portfolio Website.**
 
-- 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
+- 💬 Ask me about: **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
 
 - 📫 How to reach me? **amajaying@gmail.com**
 
