@@ -50,7 +50,6 @@
 <!-- Work Summary -->
 <details>
 <summary><b>Work Summary</b></summary>
- <p><img align="center" src="https://wakatime.com/share/@b57f1ed0-1822-486c-9521-3335d1880561/4a327ede-82cb-425a-b805-25682906e99a.svg" height= "400px" ></p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajaying&layout=compact&count_private=true&theme=dark">
 </details>
 
