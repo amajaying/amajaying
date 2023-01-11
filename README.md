@@ -65,7 +65,7 @@
 <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/>
 </details>
 
-<a href="https://quine.sh/profile/amajaying"><img src="https://stats.quine.sh/amajaying/github" alt="amajaying's GitHub stats" width="840px"></a>
+<a href="https://quine.sh/profile/amajaying"><img src="https://stats.quine.sh/amajaying/github?simple=true" alt="amajaying's GitHub stats" width="840px"></a>
 
 ## Watch my contributions get eaten by snake 🐍
 
