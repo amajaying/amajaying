@@ -8,8 +8,8 @@
 <h3>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><br>My name is Ajay Khatri.</h3>
 <hr>
 <br>
-<p><img src="https://img.shields.io/badge/Under%20Grad-KIIT%20'25-blue"/>
-</p>
+
+
 
 <!-- My Details -->
 <p>
@@ -27,7 +27,14 @@
 - ⚡ Fun fact? **I am amajaying! ;)**
     </p><br>
 
-    <!-- My Social Handles -->
+
+<!-- HacktoberFest Badges -->
+
+[![An image of @amajaying3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@amajaying3)
+
+
+
+<!-- My Social Handles -->
 
 <b>>> Connect with me <<</b>
 
