@@ -101,8 +101,8 @@
 			</style>
 			<div class="container">
                 <div class="profile section">
-                    <div class="left">
-                    </div>
+                    <!-- <div class="left">
+                    </div> -->
                     <div class="right">
                         <h2 class="head">Ajay Khatri Chhetri</h2>
                         <p class="para">
