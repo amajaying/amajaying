@@ -1,0 +1,257 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+        
+        * {
+            font-family: 'Nunito Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            background-color: #242424;
+        }
+        
+        .section {
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .profile {
+            display: flex;
+            flex-direction: row !important;
+            gap: 40px;
+            padding: 20px;
+            align-items: center;
+        }
+        
+        .left img {
+            height: 160px;
+            border-radius: 50%;
+        }
+        
+        .right {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .head {
+            font-size: 3rem;
+            font-weight: 800;
+            color: rgb(255, 196, 0);
+        }
+        
+        .head-name {
+            font-size: 2rem;
+            font-weight: 800;
+            color: white;
+        }
+        
+        .subhead {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: rgb(215, 215, 215);
+        }
+        
+        .para {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: white;
+        }
+        
+        .info {
+            font-size: 1.2rem;
+            font-weight: 400;
+            color: white;
+        }
+        
+        .socials {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .social {
+            text-decoration: none;
+            color: white;
+            font-size: 1.2rem;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: all 0.3s ease-in-out;
+            background-color: #fffefe13;
+            width: fit-content;
+            font-weight: 800;
+        }
+        
+        .social:hover {
+            background-color: #fffefe;
+            color: #3d3d3d;
+        }
+        
+        .yellow {
+            color: rgb(255, 196, 0);
+            font-weight: 700;
+        }
+        </style>
+        <!-- HTML STARTS -->
+        <main>
+        <div class="profile section">
+            <div class="left">
+                <img src="pp.png" alt="pp">
+            </div>
+            <div class="right">
+                <h2 class="head">Ajay Khatri Chhetri</h2>
+                <p class="para">
+                    Frontend Developer 👨‍💻 | UI/UX Designer 🎨
+                </p>
+                <div class="info">
+                    📍India 🎨 2.5+ Years Experience 🧑‍🎓 B.Tech in CSE @ KIIT University - 2025
+                </div>
+            </div>
+        </div>
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                Contact
+            </h2>
+            <div class="socials">
+                <!-- Linkedin -->
+                <a href="https://linkedin.com/in/amajaying" target="blank" class="social"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amajaying" height="20px" />Linkedin</a>
+                <!-- Youtube -->
+                <a href="https://www.youtube.com/c/amajaying" target="blank" class="social"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajaykhatri" width="20px" />Youtube</a>
+                <!-- Instagram -->
+                <a href="https://instagram.com/amajaying" target="blank" class="social"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amajaying" width="20px" />Instagram</a>
+                <!-- Facebook -->
+                <a href="https://fb.com/aww.ajuu" target="blank" class="social"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aww.ajuu" width="20px" />Facebook</a>
+                <!-- Twitter -->
+                <a href="https://twitter.com/amajaying" target="blank" class="social"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amajaying" width="20px" />Twitter</a>
+                <!-- Leetcode -->
+                <a href="https://leetcode.com/amajaying/" target="_blank" class="social"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="amajaying" width="20px" />Leetcode</a>
+            </div>
+        </div>
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                About
+            </h2>
+            <h2 class="head-name">
+                Hi there, I'm Ajay 👋
+            </h2>
+            <p class="info">I'm a 20 years old self-taught <span class="yellow">Web developer X UI Designer</span> based in India. Prodicient in working with HTML, CSS, JavaScript, React, Figma, Photoshop & UX.<br><br>I'm sophomore pursuing B.Tech in CSE at Kalinga Institute
+                of Industrial Technology, Bhubaneshwar, Odisha, India.<br><br>I'm passionate learner. I have desire to explore and learn, which makes me what I am. Doing magic with creativity for more than 2.5 years and helped more than 10 brands to get
+                their design game on point.</p>
+        </div>
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                Tech Stack
+            </h2>
+            <p class="info" style="font-weight: 800;">Languages</p>
+            <div class="socials">
+                <!-- C -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="amajaying" height="20px" />C</p>
+                <!-- C++ -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="amajaying" height="20px" />C++</p>
+                <!-- HTML5 -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="amajaying" height="20px" />HTML5</p>
+                <!-- CSS 3 -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="amajaying" height="20px" />CSS3</p>
+                <!-- JavaScript -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="amajaying" height="20px" />JavaScript</p>
+                <!-- Python -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="amajaying" height="20px" />Python</p>
+                <!-- Kotlin -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png" alt="amajaying" height="20px" />Kotlin</p>
+            </div>
+            <p class="info" style="font-weight: 800;">Front-End Frameworks</p>
+            <div class="socials">
+                <!-- React -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="amajaying" height="20px" />React</p>
+                <!-- Tailwind CSS -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" alt="amajaying" height="20px" />Tailwind CSS</p>
+                <!-- Bootstrap -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="amajaying" height="20px" />Bootstrap</p>
+            </div>
+            <p class="info" style="font-weight: 800;">Tech Tools</p>
+            <div class="socials">
+                <!-- Github -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="amajaying" height="20px" />Github</p>
+                <!-- Git -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" alt="amajaying" height="20px" />Git</p>
+                <!-- Firebase -->
+                <p class="social"><img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="amajaying" height="20px" />Firebase</p>
+            </div>
+
+        </div>
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                Design Tools
+            </h2>
+            <div class="socials">
+                <!-- Figma -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="amajaying" height="20px" />Figma</p>
+                <!-- Adobe Photoshop -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="amajaying" height="20px" />Adobe Photoshop</p>
+                <!-- Adobe Illustrator -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="amajaying" height="20px" />Adobe Illustrator</p>
+                <!-- Adobe XD -->
+                <p class="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="amajaying" height="20px" />Adobe XD</p>
+
+            </div>
+        </div>
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <!-- HacktoberFest Badges -->
+
+            <h2 class="subhead">
+                HacktoberFest 2021
+            </h2>
+
+            <img src="https://camo.githubusercontent.com/b64315a9a0bebc2d4d1462db7daf22e2bd35806198f94b8839bbb4ed04abcfa9/68747470733a2f2f686f6c6f70696e2e6d652f616d616a6179696e6733" alt="hacktoberfest" width="100%" style="border-radius: 10px;">
+
+        </div>
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                Github Stats
+            </h2>
+            <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajaying&layout=compact&count_private=true&theme=dark" height="170px">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark " alt="amajaying" height="170px" />
+            </div>
+
+        </div>
+        <!-- <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                Watch my contributions get eaten by snake 🐍
+            </h2>
+        -->
+        <!-- Contribution Snake -->
+        <!-- <img src="https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg" width="100%">
+        </div>  -->
+        <hr color="white" style="opacity: 40%; width: 95%; margin: auto;">
+        <div class="section">
+            <h2 class="subhead">
+                Check my recent Youtube videos 📹
+            </h2>
+            <div style="display: flex; gap: 20px; justify-content: center;">
+                <iframe width="50%" height="260px" style="border-radius: 15px;" src="https://www.youtube.com/embed/Ow_77ZFl2rY" title="Intro to Git & GitHub | Hacker ;) |  Amajaying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+
+                <iframe width="50%" height="260px" style="border-radius: 15px;" src="https://www.youtube.com/embed/mNOCN-BWlPo" title="Financial Aid on Coursera in 2022 | Coursera for FREE | 100% Scholarship | Amajaying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+            </div>
+        </div>
+    </main>
+        </div>
+    </foreignObject>
+</svg>
