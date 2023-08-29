@@ -13,7 +13,7 @@
 
 <!-- My Details -->
 # 💫 About Me:
-<p>✨: Currently interning as UI Designer at GoBaran Pvt. Ltd.<br>🌐: Learning React<br>👨‍💻: Passionate UI/UX Designer & Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Undergrad 2025<br>📫: <b>amajaying@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b><br>⚡ Fun fact? <b>I am amajaying! ;)</b></p><br>
+<p>🌐: Learning React<br>👨‍💻: Passionate UI/UX Designer & Frontend Developer <br>💗: Creating Engaging Digital Experiences <br>🏫: CSE Undergrad 2025<br>📫: <b>amajaying@gmail.com</b><br>👀: I am looking to contribute in <b>Open Source Projects.</b><br>⚡ Fun fact? <b>I am amajaying! ;)</b></p><br>
 
 
 <!-- HacktoberFest Badges -->
