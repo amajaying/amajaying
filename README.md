@@ -14,14 +14,14 @@
 🎓 B.Tech CSE 2025  
 📍 Nepali designer currently based in India  
 📫 amajaying@gmail.com  
+🕸️ [Website](https://amajaying.vercel.app/)
 
 I design full stack product experiences.  
 From idea and research to UI, motion, landing pages, growth experiments and shipping.
 
 Currently:
 - Designing AI driven SaaS at UXMagic.ai  
-- Collaborating with Nas Daily on June App  
-- Building my personal brand “becoming amajaying” on YouTube  
+- Tinkering with Code & Design as a Design Engineer for my hobby projects 
 
 I care about:
 - Flow based UX over pretty screens  
@@ -29,7 +29,7 @@ I care about:
 - Design that drives revenue, not just likes  
 - AI as a design partner, not a crutch  
 
-I am aiming to build products that scale and eventually work with world class teams at companies like Google, Apple, Microsoft.
+I aim to build products that scale and eventually work with world-class teams.
 
 And yes, I am actually amajaying.
 
@@ -63,8 +63,6 @@ And yes, I am actually amajaying.
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
@@ -74,18 +72,6 @@ And yes, I am actually amajaying.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
@@ -93,18 +79,6 @@ And yes, I am actually amajaying.
 
 ![](https://github-readme-stats.vercel.app/api?username=amajaying&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark&hide_border=true)
-
----
-
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=amajaying&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🐍 Watch my contributions get eaten by snake
-
-![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
