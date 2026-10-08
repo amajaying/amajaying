@@ -1,16 +1,16 @@
-\<img src="[https://github.com/amajaying/amajaying/blob/main/Banner.png](https://github.com/amajaying/amajaying/blob/main/Banner.png)" width="100%">
+<img src="https://github.com/amajaying/amajaying/blob/main/Banner.png" width="100%">
 
-\<h2 align="center">Hey 👋 I'm Ajay Khatri, aka amajaying.\</h2>
+<h2 align="center">Hey 👋 I'm Ajay Khatri, aka amajaying.</h2>
 
-\<p align="center">
-&#x20; Product Designer · Hybrid Creative · AI · SaaS
-\</p>
+<p align="center">
+  Product Designer · Hybrid Creative · AI · SaaS
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://www.amajaying.com/](https://www.amajaying.com/)">Portfolio\</a> ·
-&#x20; \<a href="[https://linkedin.com/in/amajaying](https://linkedin.com/in/amajaying)">LinkedIn\</a> ·
-&#x20; \<a href="mailto\:amajaying\@gmail.com">Email\</a>
-\</p>
+<p align="center">
+  <a href="https://www.amajaying.com/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/amajaying">LinkedIn</a> ·
+  <a href="mailto:amajaying@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -30,28 +30,28 @@ Currently exploring the intersection of:
 
 ## 🛠️ Stack
 
-**Design**
+**Design**  
 Figma · Photoshop · Illustrator · Premiere Pro · After Effects
 
-**Product**
+**Product**  
 UX Research · Prototyping · Design Systems · Interaction Design · Motion · Analytics
 
-**Build**
+**Build**  
 React · JavaScript · Tailwind CSS · Framer Motion · Supabase · Firebase · Vite
 
-**AI**
+**AI**  
 ChatGPT · Claude · Cursor · Figma AI · AI-assisted prototyping
 
 ---
 
 ## 🚀 Selected Work
 
-**UXMagic.ai** · AI / SaaS
-**SEOSorted.ai&#x20;**· AI / SaaS
-June Dating (Nas Daily) · AI / Mobile App
-**Kitsa.ai** · Clinical Trials / SaaS
-**Hevo Data** · Data / SaaS
-**ImmiHealth** · Healthcare
+**UXMagic.ai** · AI / SaaS  
+**SEOSorted.ai** · AI / SaaS  
+**June Dating (Nas Daily)** · AI / Mobile App  
+**Kitsa.ai** · Clinical Trials / SaaS  
+**Hevo Data** · Data / SaaS  
+**ImmiHealth** · Healthcare  
 **Freshway** · Consumer
 
 → **[amajaying.com](https://www.amajaying.com/)**
@@ -60,13 +60,15 @@ June Dating (Nas Daily) · AI / Mobile App
 
 ## 🌐 Find Me
 
-
-
-\
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/amajaying)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/amajaying)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/amajaying)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@amajaying)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://behance.net/amajaying)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amajaying)
 
 ---
 
 > **Design it. Build it. Ship it.**
 
-\<img src="[https://github.com/amajaying/amajaying/blob/main/Footer.jpg](https://github.com/amajaying/amajaying/blob/main/Footer.jpg)" width="100%">
+<img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg" width="100%">
